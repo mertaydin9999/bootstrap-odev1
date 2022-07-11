@@ -1,0 +1,26 @@
+.navbar-bg{
+    background-color: #3A3B2A;
+}
+.muzikdukkani{
+    color: #9EB23B;
+}
+body{
+    background-color: #FAFDD6;
+}
+.anasayfa{
+    color: #C7D36F;
+}
+.urunlerimiz{
+    color: #FCF9C6;
+}
+.hakkimizda{
+    color: #E0DECA;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: #C7D36F;
+    font-size: 20px;
+}
